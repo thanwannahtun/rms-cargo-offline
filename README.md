@@ -11,8 +11,8 @@
   <a href="https://github.com/thanwannahtun/rms-cargo-offline/releases/latest/download/RMSCargo-v1.0.0.apk">
     <img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
   </a>
-  <a href="https://github.com/thanwannahtun/rms-cargo-offline/releases/tag/v1.0.2">
-    <img src="https://img.shields.io/badge/Releases-v1.0.2-blue?style=for-the-badge&logo=github" alt="View Releases">
+  <a href="https://github.com/thanwannahtun/rms-cargo-offline/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/Releases-v1.0.0-blue?style=for-the-badge&logo=github" alt="View Releases">
   </a>
 
 </div>
@@ -28,5 +28,5 @@
 
 You can download the latest compiled APK directly without visiting the releases page:
 
-* 👉 [**Download RMS Cargo v1.0.2 APK**](https://github.com/thanwannahtun/rms-cargo-offline/releases/download/v1.0.2/RMSCargo-v1.0.0.apk) *(Direct Download)*
+* 👉 [**Download RMS Cargo v1.0.0 APK**](https://github.com/thanwannahtun/rms-cargo-offline/releases/download/v1.0.0/RMSCargo-v1.0.0.apk) *(Direct Download)*
 * 🚀 [**Download Latest Release (Always Up-to-Date)**](https://github.com/thanwannahtun/rms-cargo-offline/releases/latest/download/RMSCargo-v1.0.0.apk)
